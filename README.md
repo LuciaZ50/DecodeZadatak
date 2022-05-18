@@ -6,11 +6,9 @@ Decode, I hope you like it!
 
 
 
-![Screenshot_20220518-183923_DecodeZadatak (1)](https://user-images.githubusercontent.com/93731591/169098601-a9957caf-ba09-426a-8623-dbd422cfc212.jpg)
-
-![Screenshot_20220518-183945_DecodeZadatak (1)](https://user-images.githubusercontent.com/93731591/169098461-744dd958-0682-4d34-9c75-e5529d3506e1.jpg)
-
-![Screenshot_20220518-183945_DecodeZadatak](https://user-images.githubusercontent.com/93731591/169097583-861ab9d9-6ba8-499f-b1ce-aafba3f6c9b8.jpg)
-![Screenshot_20220518-184323_DecodeZadatak](https://user-images.githubusercontent.com/93731591/169097591-5f46a71e-2a4d-4f4b-8d8b-5f85ee59389e.jpg)
 
 
+
+![Screenshot_20220518-183923_DecodeZadatak](https://user-images.githubusercontent.com/93731591/169098805-1483d057-87c9-46ea-b923-89b8eabfb26e.jpg)
+![Screenshot_20220518-183945_DecodeZadatak](https://user-images.githubusercontent.com/93731591/169098828-5463fcf1-8ada-43de-ae13-d4fe4d721545.jpg)
+![Screenshot_20220518-184323_DecodeZadatak](https://user-images.githubusercontent.com/93731591/169098834-4a7e47be-6990-4347-ab02-99d02ecfe55e.jpg)
